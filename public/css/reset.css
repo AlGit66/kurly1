@@ -1,0 +1,14 @@
+* {margin:0;padding:0;vertical-align:middle;box-sizing:border-box;}
+html {font:normal 14px/1 'Nanum Gothic', "arial";overflow-y:scroll;background:#fff;color:#333;}
+html, body {width:100%;height:100%;}
+h1,h2,h3,h4,h5,h6 {font-size:14px;font-weight:normal;}
+ul,li {list-style:none;}
+.clearfix::after {content:'';display:block;clear:left;}  /* 플롯팅해제 : 리셋에등록 플롯팅 핵 */
+/* .fixedclear::after {content:'';display:block;clear:left;}  플롯팅해제 : 리셋에등록 플롯팅 핵 */
+a {color:#333;text-decoration:none;}
+span,i,a,em {vertical-align:baseline;}
+.blind {
+  display: block;
+  text-indent:-2000px;
+  overflow:hidden;
+}
