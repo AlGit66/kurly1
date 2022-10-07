@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kurly/static/js/main.c9047318.js",
+    "index.html": "/kurly/index.html",
+    "main.c9047318.js.map": "/kurly/static/js/main.c9047318.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c9047318.js"
+  ]
+}
